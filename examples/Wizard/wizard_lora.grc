@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Tapparel Joachim@EPFL,TCL
+    author: BN
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
