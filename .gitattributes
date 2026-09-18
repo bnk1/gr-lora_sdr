@@ -5,3 +5,5 @@
 *.h    text eol=lf
 *.c    text eol=lf
 *.cc   text eol=lf
+# Auto detect text files and perform LF normalization
+* text=auto
